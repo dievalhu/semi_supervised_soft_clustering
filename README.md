@@ -909,13 +909,3 @@ Comparison between clustering algorithms according to their size. The table pres
     </tr>
   </tbody>
 </table>
-
-### D. Experimental Environment
-
-All experiments were executed on a workstation equipped with an AMD Ryzen 5 8645HS 6-core CPU, 32 GB DDR5 RAM, a 1 TB M.2 SSD, running Windows 11.
-
-Implementations were developed in R 4.5.2 using the RStudio IDE. The complete experimental pipeline is available at <https://anonymous.4open.science/r/flexible_cardinality_clustering-5EB5/> following [1].
-
-### E. References
-
-[1] Burnell, R., Schellaert, W., Burden, J., Ullman, T. D., Martinez-Plumed, F., Tenenbaum, J. B., Rutar, D., Cheke, L. G., Sohl-Dickstein, J., Mitchell, M., et al. (2023). *Rethink reporting of evaluation results in AI*. **Science**, 380(6641), 136-138.
