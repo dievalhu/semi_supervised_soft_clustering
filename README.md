@@ -19,12 +19,12 @@ The proposed approach uses a two-level algorithm. The outer level performs a bou
 
 For example, Figure 2 shows the optimization landscape of the tolerance parameter $\delta$ for an illustrative balanced dataset (Iris) over 31 iterations.
 
-![CapFlex Architecture](img/methodology.png)
+![CapFlex Architecture](img/map-iris_en.png)
 *Figure 2: Optimization of $\delta$ on the Iris dataset.*
 
 After $\delta$ is optimized (Iris, $\delta=0.1$), the discretized bounds $[L,U]$ produced a finite search space of 81 distinct feasible configurations. In this search space, the Pareto front is sought between clustering quality (Silhouette $S$) and cardinality deviation (CSVI). Figure 3 shows the Pareto front for the Iris dataset. The blue marker identifies the Knee-Point (solution 70) as the recommended balanced configuration.
 
-![CapFlex Architecture](img/methodology.png)
+![CapFlex Architecture](img/Pareto.png)
 *Figure 3: Pareto front on the Iris dataset with the ideal cluster size configuration*
 
 ## Notation
