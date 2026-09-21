@@ -115,3 +115,12 @@ Rscript CapFlex.R
 2. Open the `CapFlex.R` script.
 3. Adjust the parameters at the beginning of the file to select the dataset or tolerance.
 4. Click the **Source** button to run the complete pipeline.
+
+## References
+
+Vallejo-Huanga, D., Montenegro, M., Simbaña, B., Ferri, C., Martínez-Plumed, F. (2027). CapFlex: Multimodal Soft Clustering with Flexible Size Constraints. In: Baratchi, M., et al. Machine Learning and Knowledge Discovery in Databases. Applied Data Science Track, Demo Track and Industrial Track. ECML PKDD 2026. Lecture Notes in Computer Science(), vol 16950. Springer, Cham. https://doi.org/10.1007/978-3-032-37685-5_20
+
+Vallejo-Huanga, D., Montenegro, M., Simbaña, B., Ferri, C., Martínez-Plumed, F. (2027). Semi-supervised Soft Clustering with Flexible Cardinality. In: De Marsico, M., et al. Pattern Recognition. ICPR 2026. Lecture Notes in Computer Science, vol 16821. Springer, Cham. https://doi.org/10.1007/978-3-032-31438-3_16
+
+
+
